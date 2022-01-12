@@ -1,0 +1,42 @@
+    Q1. What do you mean by BI? Explain.
+ ans: Business intelligence (BI) combines business analytics, data mining, data visualization, data tools and infrastructure, and best practices to help organizations to make more data-driven decisions.
+
+    Q2. How Power-BI helps in BI, and how does it help Analysts? Explain.
+ ans: A quick start- You’ll be able to get insights quickly with an uncomplicated setup, no required training, and included dashboards for services such as Salesforce, Google Analytics, and Microsoft Dynamics.
+ 
+      Streamlined publication and distribution- Instead of emailing large files or putting them on a shared drive, analysts upload reports and visualizations to the Power BI service, and their data is refreshed whenever the underlying dataset is updated.
+      
+      Real-time information- Dashboards update in real time, as data is pushed or streamed in, which gives viewers the ability to solve problems and identify opportunities quickly. Any report or dashboard can display and update real-time data and visuals. Sources of streaming data can be factory sensors, social media sources, or anything from which time-sensitive data can be collected or transmitted.
+      
+      Ability to customize Power BI app navigation- An “app navigation experiences” feature gives report developers the power to customize navigation to help viewers find content quickly and understand the relationships between different reports and dashboards.
+      
+      Ability to customize security features-Report developers can set up row-level security (RLS) access filters to ensure that viewers see only data relevant to them, mitigating the risk of people seeing data they shouldn’t.
+      
+      Cortana integration- Power BI works with Microsoft’s digital assistant, Cortana. Users can verbally ask questions in natural language to access charts and graphs. This can be especially helpful for users with mobile devices.
+      
+      Artificial Intelligence- Power BI users can access image recognition and text analytics, create machine learning models, and integrate with Azure Machine Learning.  
+      
+      
+    Q3. Explain Descriptive analytics?
+ ans: This function takes a value of type table and returns a table that displays, for each column in the original table, the minimum, maximum, average, standard deviation, count of values, count of null values and count of distinct values
+ 
+ 
+    Q.4 Explain Predictive analytics?
+ ans: Predictive analytics is branch of Advance anlytics which is used to make prediction about unknown futuere events. Predictive analytics uses many  technique from data mining, statistics, Modeling, machine learing, artificial intelligence to analyse data to make future prediction  
+    
+    
+    Q.5 Explain perspective analytics?
+ ans: Prescriptive analytics is a type of data analytics—the use of technology to help businesses make better decisions through the analysis of raw data. Specifically, prescriptive analytics factors information about possible situations or scenarios, available resources, past performance, and current performance, and suggests a course of action or strategy. It can be used to make decisions on any time horizon, from immediate to long term.  
+    
+    
+    Q.6 Write five real-life questions that PowerBi can solve.
+ ans: 1. Waiting On Figures 
+      2. Using Data From Old Reports
+      3. Excessive Time Spent Preparing For Presentations · 
+      4. Being Unable To Find Specific
+      5. Not Being Able To Determine Your Level Of Success.
+
+
+
+
+
