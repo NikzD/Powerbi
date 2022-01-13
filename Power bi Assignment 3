@@ -1,0 +1,28 @@
+Q1.   List and explain different PowerBi products?
+Ans:  1.Power BI- a windows desktop application for data analysis and report creation
+      2.Power BI services- Online software as a service, used to collaborate and distribute power bi reports
+      3.Power BI mobile- a native Power BI mobile app
+      4.Power BI report Builder- a tool for creating pagenated report
+      5.Power BI Report server- on premises report server
+      6.Power BI Embeded- A service to embeded visuals, reports and dashboards into an application
+      
+      
+Q2.   What limitations of Excel, Microsoft solved by PowerBi?
+      Power BI has faster processing than Excel. Power BI dashboards are more visually appealing, interactive and customizable than those in Excel. Power BI is a more powerful tool than Excel in terms of comparison between tables, reports or data files. Power BI is more user friendly and easy to use than Excel.
+
+
+Q3.   Explain PowerQuery?
+      Power Query is a data transformation and data preparation engine. ... Because the engine is available in many products and services, the destination where the data will be stored depends on where Power Query was used. Using Power Query, you can perform the extract, transform, and load (ETL) processing of data
+
+
+Q4.   Explain PowerMap?
+      Power mapping is a visual tool used by social advocates to identify the best individuals to target to promote social change. ... The power map tool helps to visualize whom you need to influence, who can influence your target and what can be done to influence the identified person with power.
+      
+
+
+Q5.   How powerBi eliminated the need to host SharePoint Server on premises?
+
+
+Q6.   Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
+      December 2021 brings update 2.100. 261.0 to Microsoft's Power BI, introducing new reporting features such as Sparklines, which can give quick trend analysis insights by allowing graphs to be added within tables, exciting changes, and more. One extremely exciting and potentially game-changing feature is Hybrid Tables.
+      
