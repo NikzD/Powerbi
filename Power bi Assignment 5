@@ -1,0 +1,30 @@
+Q1.   Explain DAX.
+Ans:  Data Analysis Expressions (DAX) is a formula expression language used in Analysis Services, Power BI, and Power Pivot in Excel. DAX formulas include functions, operators, and values to perform advanced calculations and queries on data in related tables and columns in tabular data models
+
+
+Q2.   Explain datasets, reports, and dashboards and how they relate to each other?
+Ans:  In the Power BI service, reports are built on datasets, report visuals are pinned to dashboards, and dashboard visuals link back to reports. But how do you know which dashboards are hosting visuals from your Marketing report? And how do you locate those dashboards? Is your Procurement dashboard using visuals from more than one dataset? If so, what are they named and how can you open and edit them? Is your HR dataset being used in any reports or dashboards at all? Or, can it be moved without causing any broken links? Questions like these can all be answered on the Related content pane. Not only does the pane display the related content, it also allows you to take action on the content and easily navigate between the related content.
+
+
+Q3.   How reports can be created in power BI, explain two ways with Navigation of each.
+Ans:  A Power BI report is a multi-perspective view into a dataset, with visuals that represent different findings and insights from that dataset. A report can have a single visual or pages full of visuals. Depending on your job role, you may be someone who designs reports.
+
+
+Q4.   How to connect to data in Power BI? How to use the content pack to connect to google analytics? Mention the steps.
+Ans:  A content pack is a feature that you can access if you have either the pro or premium version of Power BI. With Power BI in general, you have shareable reporting options, such as dashboards. A content pack lets you boost your collaboration and organization within your reporting efforts
+      Step 1: Get Your Google Analytics Tracking Code
+      Step 2: Install Your Google Analytics Tracking Code on Your Site
+      Step 3: Confirm Google Analytics Is Set Up Correctly
+
+
+Q5.   How to import Local files in Power BI? Mention the Steps.
+Ans:  1. In Power BI, click Get Data in the lower left screen.
+      2. Under Import or Connect to Data > Files, click Get.
+      3. Click Local File.
+      4. Choose which file to upload and click Open.
+      5. Click Upload under Upload your Excel file to Power BI.
+      6. The message “Your file has been uploaded” should appear.
+
+
+Q6.   In Power BI visualization, what are Reading View and Editing view?
+Ans:  There are two modes for interacting with reports in the Power BI service: Editing view and Reading view. If you are a business user, then you are more likely to use Reading view to consume reports created by others. Editing view is used by report designers, who create the reports and share them with you.
